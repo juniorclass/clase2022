@@ -1,0 +1,6 @@
+Estoy colocando codigo para este archivo...
+
+Esto me esta sirviendo para ver como funciona
+
+
+el comando cat.
